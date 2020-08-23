@@ -1,0 +1,6 @@
+Airport,Lat,Lon,Name
+ATL,33.6405272,-84.4283546,Hartsfield-Jackson Atlanta International Airport
+LAX,33.9421452,-118.4102144,Los Angeles International Airport
+ORD,41.9741665,-87.9095101,O'Hare International Airport
+DFW,32.8998136,-97.0425239,Dallas/Fort Worth International Airport
+DEN,39.8561004,-104.6759263,Denver International Airport
