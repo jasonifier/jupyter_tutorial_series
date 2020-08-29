@@ -3,5 +3,3 @@
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter nbextension enable --py --sys-prefix qgrid
 jupyter nbextension enable --py --sys-prefix ipyleaflet
-
-apt-get install tree
